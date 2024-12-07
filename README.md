@@ -6,7 +6,7 @@ En este proyecto, analizaremos datos de viajes en taxi para identificar los barr
 - `'dropoff_location_name'` -Nombre de la compañia de taxi
 - `'average_trips'` -Representa la cantidad de viajes que ha hecho cada compañia.
   
-Estos datos los podemos ver en nuestro archivo .csv agregado `datasets/project_sql`
+Tomamos datos de diferentes fuentes contenidas en nuestro archivo .csv agregado `datasets/project_sql`
 # Habilidades técnicas
 - `Python`
 -	`Pandas`
