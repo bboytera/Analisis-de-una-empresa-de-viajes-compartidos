@@ -21,7 +21,7 @@ Los archivos de diferentes fuentes se encuentran en `datasets/project_sql` en ar
 -	`Pandas`
 -	`Matplotlib`
 -	`SciPy-stats`
--	Web scraping (Requests, BeautifulSoup) de datos climáticos
+-	`Web scraping (Requests, BeautifulSoup) de datos climáticos`
 # Conclusion general
 Comenzamos el proyecto analizando los datos para asegurarnos de que fueran completos y correctos. No encontramos valores faltantes ni duplicados, y ajustamos algunos tipos de datos para que el análisis fuera más preciso. Luego, creamos gráficos que mostramos cuáles son las principales compañías de taxis y los barrios con más finalizaciones de viajes.
 
